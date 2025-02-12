@@ -1,3 +1,27 @@
+# 🚰 Decentralized Faucet App with Initium Token 💰  
+
+## Demo  
+
+### 📸 Project Screenshot  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/homepage.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/claim-tokens.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/transaction-history.png">  
+
+### 🎥 Watch the Demo Video  
+[Initium Faucet Walkthrough Video](https://github.com/yourusername/initium-faucet/blob/main/public/demo/faucet-demo.mp4)  
+
+---  
+
+## Highlights  
+
+- 🌟 **Tech Stack**: React, Motoko, Internet Computer (ICP)  
+- 🔥 **Initium Token (Custom Cryptocurrency)** – Built on ICP blockchain  
+- 💸 **Decentralized Faucet** – Claim free Initium Tokens  
+- 📜 **Smart Contracts in Motoko** – Secure and transparent transactions  
+- 📊 **Real-time Balance Updates** – View token balance instantly  
+
+---  
+
 # Check your Balance
 
 1. Find out your principal id:
