@@ -3,12 +3,10 @@
 ## Demo  
 
 ### 📸 Project Screenshot  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/homepage.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/claim-tokens.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/initium-faucet/blob/main/public/images/transaction-history.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/decentralized-faucet-app/blob/91e402bb8458770cd06f621f58c0b3b12a110013/src/token_frontend/public/token.png">  
 
 ### 🎥 Watch the Demo Video  
-[Initium Faucet Walkthrough Video](https://github.com/yourusername/initium-faucet/blob/main/public/demo/faucet-demo.mp4)  
+[Initium Faucet Walkthrough Video](https://github.com/SegFaultSurvivor/decentralized-faucet-app/blob/91e402bb8458770cd06f621f58c0b3b12a110013/src/token_frontend/public/Decentralized_Faucet_App.mp4)  
 
 ---  
 
